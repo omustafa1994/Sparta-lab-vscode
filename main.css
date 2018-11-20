@@ -9,4 +9,14 @@ body {
   color: red;
 }
 
+.msg {
+  padding: 1em;
+  margin: 1em 0;
+  background-color: white;
+  width: 70%;
+  opacity: 0;
+  transition: opacity 200ms ease-out;
+
+}
+
 
