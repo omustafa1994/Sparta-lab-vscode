@@ -1,7 +1,7 @@
 # Visual Studio Code Shortcuts
 
 ### Description
-This was a task given to us as part of our first week at Sparta Global, in order to understand VS Code and it's shortcuts whilst demonstrating a working knowledge of HTML and CCS. This contains a couple HTML pages which display various VC Code shortcuts in the representation of GIF format. 
+This was a task given to us as part of our first week at Sparta Global, in order to understand VS Code and it's shortcuts whilst demonstrating a working knowledge of HTML and CCS. This contains a couple HTML pages which display various shortcuts for VS Code in the representation of GIF format. 
 
 ### Languages used
 * HTML
